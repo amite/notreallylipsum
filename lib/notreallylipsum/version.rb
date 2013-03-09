@@ -1,0 +1,3 @@
+module Notreallylipsum
+  VERSION = "0.0.2"
+end
